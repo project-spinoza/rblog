@@ -1,3 +1,3 @@
 # rblog
-Example blog with RStudio, RMarkdown and Jekyll
+Example blog with RStudio, RMarkdown and Jekyll.
 
