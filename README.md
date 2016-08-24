@@ -13,5 +13,26 @@ Example blog with RStudio, RMarkdown and Jekyll.
  <li>Project directory name : your project directory name</li>
 </ul>
 ## Publishing first post in jekyll blog
-<p>Make Rmd file in RStudio convert it to md file, put the md file in _posts folder 
-file name should be like <code>2016-08-24-blogtitle.md</code> </p>
+<p>
+<ul>
+<li> Make Rmd file in RStudio convert it to md file</li>
+<li> Put the md file in _posts folder of jekyll blog</li> 
+<li>File name should be like Y-M-D-title.md  e.g <code>2016-08-24-blogtitle.md</code></li>
+<li>Add required Front Matter to the newly created md file<br>
+<code>
+<pre>
+---
+layout: post
+title: blog title
+---
+</pre>
+</code>
+</li>
+<li>Push changes to github</li>
+</ul>
+</p>
+## Ready
+<p>Goto settings of repository and visit the url<br>
+e.g <a href="https://github.com/project-spinoza/rblog">Visit Blog</a>
+</p>
+
