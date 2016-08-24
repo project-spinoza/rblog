@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Plots
+title: Second blog
 ---
 
 # This is second blog
