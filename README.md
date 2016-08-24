@@ -13,4 +13,5 @@ Example blog with RStudio, RMarkdown and Jekyll.
  <li>Project directory name : your project directory name</li>
 </ul>
 ## Publishing first post in jekyll blog
-
+<p>Make Rmd file in RStudio convert it to md file, put the md file in _posts folder 
+file name should be like <code>2016-08-24-blogtitle.md</code> </p>
