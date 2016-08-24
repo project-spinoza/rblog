@@ -12,4 +12,5 @@ Example blog with RStudio, RMarkdown and Jekyll.
  <li>Repository URL :<code>https://github.com/your repository</code></li>
  <li>Project directory name : your project directory name</li>
 </ul>
+## Publishing first post in jekyll blog
 
