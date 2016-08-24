@@ -9,6 +9,7 @@ Example blog with RStudio, RMarkdown and Jekyll.
 ## Cloning jekyll blog in RStudio
 <ul>
  <li>File, New project, Version control, Clone git</li>
- <li>Repo URL :<code>https://github.com/your repository</code></li>
+ <li>Repository URL :<code>https://github.com/your repository</code></li>
  <li>Project directory name : your project directory name</li>
 </ul>
+
