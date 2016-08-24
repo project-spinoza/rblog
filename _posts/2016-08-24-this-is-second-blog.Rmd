@@ -1,0 +1,14 @@
+---
+layout: post
+title:  This is second blog
+date: "`r Sys.time()`"
+output: 
+  html_document: 
+    keep_md: yes
+---
+
+Your markdown here!
+
+```{r}
+plot(1:10)
+```
