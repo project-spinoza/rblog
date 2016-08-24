@@ -33,6 +33,6 @@ title: blog title
 </p>
 ## Ready
 <p>Goto settings of repository and visit the url<br>
-e.g <a href="https://github.com/project-spinoza/rblog">Visit Blog</a>
+e.g <a href="https://project-spinoza.github.io/rblog/">Visit Blog</a>
 </p>
 
