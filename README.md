@@ -38,5 +38,5 @@ title: blog title
 e.g <a href="https://project-spinoza.github.io/rblog/">Visit Blog</a>
 </p>
 ## Example 
-![rblog screenshot](screenshot.png)
+![rblog screenshot](images/screenshot.png)
 
