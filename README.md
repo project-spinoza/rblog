@@ -37,4 +37,6 @@ title: blog title
 <p>Goto settings of repository and visit the url<br>
 e.g <a href="https://project-spinoza.github.io/rblog/">Visit Blog</a>
 </p>
+## Example 
+<img src="{{ site.baseurl }}/images/screenshot.png" />
 
