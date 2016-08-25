@@ -3,6 +3,8 @@ Example blog with RStudio, RMarkdown and Jekyll.
 
 ## Prerequisits
 <p>Install R language, RStudio, Git Bash and Jekyll</p>
+<p>Install the latest version of the knitr package: <code>install.packages("knitr")</code></p>
+<p>Install other packages as per requirement, Like <code>install.packages("ggplot2");</code> for drawing graphs etc.</p>
 <p>Make a theme in Jekyll or use <a target="_blank" href="http://jekyllthemes.org/">ready-made ones</a> available for blog</p>
 <p>Make a new repository with a default branch of gh-pages and upload that jekyll theme in it</p>
 
