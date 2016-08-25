@@ -38,5 +38,5 @@ title: blog title
 e.g <a href="https://project-spinoza.github.io/rblog/">Visit Blog</a>
 </p>
 ## Example 
-<img src="{{ site.baseurl }}/images/screenshot.png" />
+![rblog screenshot](screenshot.png)
 
