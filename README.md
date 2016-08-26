@@ -30,7 +30,8 @@ Example blog with RStudio, RMarkdown and Jekyll.
 <p>
 <ul>
 <li>In RStudio goto Tools -> Project Project Options -> Sweave -> Select knitr is default option -> Ok </li><br>
-![rblog screenshot](images/default-option.png)<br><br>
+![rblog screenshot](images/default-option.png)
+<br><br>
 <li> Make Rmd file in RStudio convert it to md file</li>
 <li> Put the md file in _posts folder of jekyll blog</li> 
 <li>File name should be like Y-M-D-title.md  e.g <code>2016-08-24-blogtitle.md</code></li>
