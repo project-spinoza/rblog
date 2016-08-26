@@ -30,7 +30,7 @@ Example blog with RStudio, RMarkdown and Jekyll.
 <p>
 <ul>
 <li>First of all in RStudio goto <code>Tools -> Project Project Options -> Sweave -> Select knitr is default option -> Ok </code></li>
-<li>You have to download <code>R Blog (Jekyll)<code> template from <a href="https://github.com/Tajtaj/r_blog/archive/master.zip">here</a></li>
+<li>You have to download <code>R Blog (Jekyll)</code> template from <a href="https://github.com/Tajtaj/r_blog/archive/master.zip">here</a></li>
 <li>Place <code>r_blog</code> directory in <code>rmarkdown/rmarkdown/templates</code></li>
 <li>After that goto <code>File-> New File -> RMarkdown -> From Template -> Select a template R Blog (Jekyll)</li>
 <li>After that add RMarkdown code in the newly created file save it in <code>_posts</code> directory of your blog with the name  Y-M-D-title  e.g <code>2016-08-24-blogtitle</code> </li>
