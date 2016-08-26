@@ -29,28 +29,15 @@ Example blog with RStudio, RMarkdown and Jekyll.
 ### 1. User interface
 <p>
 <ul>
-<li>In RStudio goto Tools -> Project Project Options -> Sweave -> Select knitr is default option -> Ok </li>
-<li> Make Rmd file in RStudio convert it to md file</li>
-<li> Put the md file in _posts folder of jekyll blog</li> 
-<li>File name should be like Y-M-D-title.md  e.g <code>2016-08-24-blogtitle.md</code></li>
-<li>Add required Front Matter to the newly created md file<br>
-<code>
-<pre>
----
-layout: post
-title: blog title
----
-</pre>
-</code>
-</li>
-<li>Push changes to github</li>
+<li>First of all in RStudio goto <code>Tools -> Project Project Options -> Sweave -> Select knitr is default option -> Ok </code></li>
+<li>You have to download <code>R Blog (Jekyll)<code> template from <a href="https://github.com/Tajtaj/r_blog/archive/master.zip">here</a></li>
+<li>Place <code>r_blog</code> directory in <code>rmarkdown/rmarkdown/templates</code></li>
+<li>After that goto <code>File-> New File -> RMarkdown -> From Template -> Select a template R Blog (Jekyll)</li>
+<li>After that add RMarkdown code in the newly created file save it in <code>_posts</code> directory of your blog with the name  Y-M-D-title  e.g <code>2016-08-24-blogtitle</code> </li>
+<li>As Jekyll supports markdown files, so you have to convert rmarkdown to markdown in RStudio by clicking Knit Html link</li>
+<li>Now push only md files to github(if using gh-pages)</li>
+<li>After that visit your blog and check the post</li>
 </ul>
-</p>
-### Screenshot
-![rblog screenshot](images/default-option.png)
-## Ready
-<p>Goto settings of repository and visit the url<br>
-e.g <a href="https://project-spinoza.github.io/rblog/">Visit Blog</a>
-</p>
+
 
 
