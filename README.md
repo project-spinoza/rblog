@@ -22,14 +22,17 @@ Example blog with RStudio, RMarkdown and Jekyll.
 ![rblog screenshot](images/clone.png)<br><br>
 
 ## Publishing first post in your jekyll blog
-<p>New post can be added by two methods<br>
+<p>New post can be added by two methods<br><br>
 <b>1. User interface</b><br>
-<b>1. Command line</b><br>
+<b>2. Command line</b><br>
 </p>
 ### 1. User interface
 <p>
 <ul>
-<li> Make Rmd file in RStudio convert it to md file</li>
+<li>In RStudio goto Tools -> Project Project Options -> Sweave -> Select knitr is default option -> Ok </li>
+
+<li> Make Rmd file in RStudio convert it to md file</li><br>
+![rblog screenshot](images/default-option.png)<br><br>
 <li> Put the md file in _posts folder of jekyll blog</li> 
 <li>File name should be like Y-M-D-title.md  e.g <code>2016-08-24-blogtitle.md</code></li>
 <li>Add required Front Matter to the newly created md file<br>
