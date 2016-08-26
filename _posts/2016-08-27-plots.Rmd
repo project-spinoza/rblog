@@ -1,0 +1,17 @@
+---
+output:
+  html_document:
+    fig_caption: yes
+    keep_md: yes
+    toc: yes
+---
+---
+layout: post
+title: Plots
+---
+
+# Your code goes here ....
+
+```{r}
+summary(cars)
+```

@@ -38,6 +38,12 @@ Example blog with RStudio, RMarkdown and Jekyll.
 <li>Now push only md files to github(if using gh-pages)</li>
 <li>After that visit your blog and check the post</li>
 </ul>
+#### Screenshots
+![rblog screenshot](images/default-option.png)<br><br>
+![rblog screenshot](images/rmarkdown.png)<br><br>
+![rblog screenshot](images/rblog-template.png)<br><br>
+![rblog screenshot](default-screen.png)<br><br>
+![rblog screenshot](images/output.png)<br><br>
 
 
 
