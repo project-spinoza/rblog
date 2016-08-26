@@ -42,7 +42,7 @@ Example blog with RStudio, RMarkdown and Jekyll.
 ![rblog screenshot](images/default-option.png)<br><br>
 ![rblog screenshot](images/rmarkdown.png)<br><br>
 ![rblog screenshot](images/rblog-template.png)<br><br>
-![rblog screenshot](default-screen.png)<br><br>
+![rblog screenshot](images/default-screen.png)<br><br>
 ![rblog screenshot](images/output.png)<br><br>
 
 
