@@ -14,7 +14,7 @@ Example blog with RStudio, RMarkdown and Jekyll.
  <li>Repository URL :<code>https://github.com/your repository</code></li>
  <li>Project directory name : your project directory name</li>
 </ul>
-## Screenshots
+### Screenshots
 ![rblog screenshot](images/new-project.png)<br><br>
 ![rblog screenshot](images/version-control.png)<br><br>
 ![rblog screenshot](images/git.png)<br><br>
