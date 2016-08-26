@@ -64,7 +64,9 @@ Example blog with RStudio, RMarkdown and Jekyll.
 </ul><br><br>
 #### Screenshots
 ![rblog screenshot](images/brocks.png)<br><br>
-![rblog screenshot](images/brocks-functions.png)<br><br>
+![rblog screenshot](images/brocks-functions.png)<br><br><br><br>
+## Final output
+![rblog screenshot](images/screenshot.png)
 
 
 
