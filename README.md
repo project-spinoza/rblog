@@ -21,7 +21,12 @@ Example blog with RStudio, RMarkdown and Jekyll.
 ![rblog screenshot](images/git.png)<br><br>
 ![rblog screenshot](images/clone.png)<br><br>
 
-## Publishing first post in jekyll blog
+## Publishing first post in your jekyll blog
+<p>New post can be added by two methods<br>
+<b>1. User interface</b><br>
+<b>1. Command line</b><br>
+</p>
+### 1. User interface
 <p>
 <ul>
 <li> Make Rmd file in RStudio convert it to md file</li>
